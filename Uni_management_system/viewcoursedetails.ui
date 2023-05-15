@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>viewCourseDetails</class>
+ <widget class="QDialog" name="viewCourseDetails">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>849</width>
+    <height>533</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QComboBox" name="comboBoxCourse">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>50</y>
+     <width>72</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="codeCourse">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>140</y>
+     <width>113</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="hoursCourse">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>200</y>
+     <width>113</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lvlCourse">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>270</y>
+     <width>113</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="pre_reqCourse">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>330</y>
+     <width>113</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="instructorCourse">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>400</y>
+     <width>113</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QSplitter" name="splitter">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>120</y>
+     <width>71</width>
+     <height>321</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Vertical</enum>
+   </property>
+   <widget class="QLabel" name="label">
+    <property name="text">
+     <string>Code</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="text">
+     <string>Hours</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="text">
+     <string>Level</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="text">
+     <string>Pre-req</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="text">
+     <string>Instructor</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

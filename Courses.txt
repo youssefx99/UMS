@@ -1,0 +1,8 @@
+Data Structure,114,1,20,OOP,4,Hanan,2
+Intro,111,1,20,,4,walaa,1
+OOP,113,1,20,,4,mabrouk,2
+math1,101,1,20,,2,dina,1
+math2,102,1,20,math1,4,wael,1
+math3,103,1,20,,4,safaa,2
+math4,104,1,20,math3,4,safaa,2
+sp,112,1,20,Intro,4,Salsabel,1
