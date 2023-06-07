@@ -25,7 +25,7 @@ The University Management System (UMS) is a comprehensive application designed t
 
 ## 🛠️ Technologies Used
 
-- Development Tool: Visual Studio
+- Development Tool: QT
 - Language: C++
 - Data Structures: Utilized appropriate data structures for efficient implementation and optimal performance.
 - Storage: Data is stored in files, eliminating the need for a database.
